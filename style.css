@@ -85,10 +85,12 @@ h3 {
   display:flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  margin:2rem;
 }
 
 .address {
   text-align: center;
+
 }
 
 iframe {
