@@ -58,6 +58,7 @@ h1 {
 
 .offer-description {
   text-align: center;
+  width: 60vw;
 }
 
 h2 {
@@ -80,27 +81,6 @@ h3 {
 }
 
 
-#map {
-  height: 400px;
-  /* The height is 400 pixels */
-  width: 100%;
-  /* The width is the width of the web page */
-}
-
-.carousel {
-  margin:5rem;
-}
-
-.carousel-item {
-  height:50vh;
-  padding:5rem;
-}
-
-.carousel-item img{
-  width: auto;
-}
-
-
 #contacts {
   display:flex;
   justify-content: space-evenly;
@@ -108,7 +88,6 @@ h3 {
 }
 
 .address {
-  /* margin-right:5rem; */
   text-align: center;
 }
 
