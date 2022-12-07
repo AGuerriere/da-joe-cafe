@@ -73,6 +73,28 @@ h3 {
 }
 
 
+#map {
+  height: 400px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+}
+
+#contacts {
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.address {
+  margin-right:5rem;
+  text-align: center;
+}
+
+iframe {
+  border-radius: 1rem;
+}
+
 footer {
   text-align: center;
   height:3vh;
